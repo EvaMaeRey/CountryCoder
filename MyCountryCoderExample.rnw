@@ -1,0 +1,29 @@
+\documentclass{article}
+
+\begin{document}
+
+
+
+\section{Introducing my Country Coder}
+
+Use country coder - uses fuzzy matching to chose assign a standardized name to the country.
+<<results="markup">>=
+options(width=80)
+source("countrycode2.R")
+
+#Example of how country coder works: 
+StandardNames=FavoriteCountryName(c("Ireland",
+                                    "United Kingdom",
+                                    "United Kingdom of Great Britain and Northern Ireland",
+                                    "United States of America",
+                                    "United States",
+                                    "iraq",
+                                    "Iran",
+                                    "Iran",
+                                    "Ceylon"))
+StandardNames  
+@
+
+
+
+\end{document}

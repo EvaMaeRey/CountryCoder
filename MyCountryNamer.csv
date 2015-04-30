@@ -1,0 +1,377 @@
+CountryInput,CountryReturn,CountryReturnShort
+aruba,Aruba,Aruba
+afghanistan,Afghanistan,Afghanistan
+angola,Angola,Angola
+anguilla,Anguilla,Anguilla
+aland islands,Aland Islands,Aland Islands
+albania,Albania,Albania
+andorra,Andorra,Andorra
+united arab emirates,United Arab Emirates,United Arab Emirates
+argentina,Argentina,Argentina
+armenia,Armenia,Armenia
+american samoa,American Samoa,American Samoa
+antarctica,Antarctica,Antarctica
+french southern territories,French Southern Territories,French Southern Territories
+antigua and barbuda,Antigua and Barbuda,Antigua and Barbuda
+antigua,Antigua and Barbuda,Antigua and Barbuda
+australia,Australia,Australia
+austria,Austria,Austria
+azerbaijan,Azerbaijan,Azerbaijan
+burundi,Burundi,Burundi
+belgium,Belgium,Belgium
+benin,Benin,Benin
+burkina faso,Burkina Faso,Burkina Faso
+bangladesh,Bangladesh,Bangladesh
+bulgaria,Bulgaria,Bulgaria
+bahrain,Bahrain,Bahrain
+bahamas,Bahamas,Bahamas
+bosnia and herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina
+saint barthelemy,Saint Barthelemy,Saint Barthelemy
+belarus,Belarus,Belarus
+belize,Belize,Belize
+bermuda,Bermuda,Bermuda
+"bolivia, plurinational state of","Bolivia, Plurinational State Of",Bolivia
+bolivia,"Bolivia, Plurinational State Of",Bolivia
+brazil,Brazil,Brazil
+barbados,Barbados,Barbados
+brunei darussalam,Brunei Darussalam,Brunei Darussalam
+brunei,Brunei Darussalam,Brunei Darussalam
+bhutan,Bhutan,Bhutan
+bouvet island,Bouvet Island,Bouvet Island
+botswana,Botswana,Botswana
+central african republic,Central African Republic,Central African Republic
+canada,Canada,Canada
+cocos (keeling) islands,Cocos (Keeling) Islands,Cocos (Keeling) Islands
+switzerland,Switzerland,Switzerland
+chile,Chile,Chile
+china,China,China
+china (p.r.c.) ,China,China
+"china, people's republic of",China,China
+people's republic of china,China,China
+cote d'ivoire,Ivory Coast,Ivory Coast
+ivory coast,Ivory Coast,Ivory Coast
+cameroon,Cameroon,Cameroon
+dem. republic of the congo,"Congo, The Democratic Republic Of",DRC
+"congo, the democratic republic of","Congo, The Democratic Republic Of",DRC
+"congo, dem. rep.","Congo, The Democratic Republic Of",DRC
+the democratic republic of the congo,"Congo, The Democratic Republic Of",DRC
+congo (kinshasa),"Congo, The Democratic Republic Of",DRC
+zaire,"Congo, The Democratic Republic Of",DRC
+congo zaire,"Congo, The Democratic Republic Of",DRC
+republic of the congo,"Congo, Republic Of",Congo
+"congo, rep. ","Congo, Republic Of",Congo
+"congo, republic of","Congo, Republic Of",Congo
+congo,"Congo, Republic Of",Congo
+congo (brazzaville),"Congo, Republic Of",Congo
+cook islands,Cook Islands,Cook Islands
+colombia,Colombia,Colombia
+comoros,Comoros,Comoros
+cape verde,Cape Verde,Cape Verde
+costa rica,Costa Rica,Costa Rica
+cuba,Cuba,Cuba
+christmas island,Christmas Island,Christmas Island
+cayman islands,Cayman Islands,Cayman Islands
+cyprus,Cyprus,Cyprus
+czech republic,Czech Republic,Czech Republic
+germany,Germany,Germany
+djibouti,Djibouti,Djibouti
+dominica,Dominica,Dominica
+denmark,Denmark,Denmark
+dominican republic,Dominican Republic,Dominican Republic
+algeria,Algeria,Algeria
+ecuador,Ecuador,Ecuador
+arab republic of egypt,Egypt,Egypt
+egypt,Egypt,Egypt
+"egypt, arab republic",Egypt,Egypt
+eritrea,Eritrea,Eritrea
+western sahara,Western Sahara,Western Sahara
+spain,Spain,Spain
+estonia,Estonia,Estonia
+ethiopia,Ethiopia,Ethiopia
+finland,Finland,Finland
+fiji,Fiji,Fiji
+falkland islands (malvinas),Falkland Islands (Malvinas),Falkland Islands (Malvinas)
+falkland,Falkland Islands (Malvinas),Falkland Islands (Malvinas)
+malvinas,Falkland Islands (Malvinas),Falkland Islands (Malvinas)
+france,France,France
+faroe islands,Faroe Islands,Faroe Islands
+federal states of Micronesia,"Micronesia, Federated States Of",Micronesia
+"micronesia, federated states of","Micronesia, Federated States Of",Micronesia
+micronesia,"Micronesia, Federated States Of",Micronesia
+"micronesia, fed. Sts.","Micronesia, Federated States Of",Micronesia
+gabon,Gabon,Gabon
+united kingdom of great britain and northern ireland,United Kingdom,United Kingdom
+united kingdom,United Kingdom,United Kingdom
+uk,United Kingdom,United Kingdom
+georgia,Georgia,Georgia
+guernsey,Guernsey,Guernsey
+ghana,Ghana,Ghana
+gibraltar,Gibraltar,Gibraltar
+guinea,Guinea,Guinea
+guadeloupe,Guadeloupe,Guadeloupe
+gambia,Gambia,Gambia
+guinea-bissau,Guinea-Bissau,Guinea-Bissau
+equatorial guinea,Equatorial Guinea,Equatorial Guinea
+greece,Greece,Greece
+grenada,Grenada,Grenada
+greenland,Greenland,Greenland
+guatemala,Guatemala,Guatemala
+french guiana,French Guiana,French Guiana
+guam,Guam,Guam
+guyana,Guyana,Guyana
+hong kong,Hong Kong,Hong Kong
+"hong kong, sar china",Hong Kong,Hong Kong
+heard island and mcdonald islands,Heard Island and Mcdonald Islands,Heard Island and Mcdonald Islands
+honduras,Honduras,Honduras
+croatia,Croatia,Croatia
+haiti,Haiti,Haiti
+hungary,Hungary,Hungary
+indonesia,Indonesia,Indonesia
+isle of man,Isle Of Man,Isle Of Man
+india,India,India
+british indian ocean territory,British Indian Ocean Territory,British Indian Ocean Territory
+ireland,Ireland,Ireland
+islamic republic of iran,"Iran, Islamic Republic Of",Iran
+"iran, islamic republic of","Iran, Islamic Republic Of",Iran
+iran,"Iran, Islamic Republic Of",Iran
+iraq,Iraq,Iraq
+iceland,Iceland,Iceland
+israel,Israel,Israel
+italy,Italy,Italy
+jamaica,Jamaica,Jamaica
+jersey,Jersey,Jersey
+jordan,Jordan,Jordan
+japan,Japan,Japan
+kazakhstan,Kazakhstan,Kazakhstan
+kenya,Kenya,Kenya
+kyrgyzstan,Kyrgyzstan,Kyrgyzstan
+kyrgyz republic,Kyrgyzstan,Kyrgyzstan
+Kirghizia,Kyrgyzstan,Kyrgyzstan
+cambodia,Cambodia,Cambodia
+kiribati,Kiribati,Kiribati
+saint kitts and nevis,Saint Kitts and Nevis,Saint Kitts and Nevis
+"korea, republic of","Korea, Republic Of",South Korea
+"korea, rep.","Korea, Republic Of",South Korea
+"korea, south","Korea, Republic Of",South Korea
+south korea,"Korea, Republic Of",South Korea
+republic of korea,"Korea, Republic Of",South Korea
+"korea, democratic people's republic of","Korea, Democratic People'S Republic Of",North Korea
+north korea,"Korea, Democratic People'S Republic Of",North Korea
+"korea, north","Korea, Democratic People'S Republic Of",North Korea
+dem. rep. of korea,"Korea, Democratic People'S Republic Of",North Korea
+"korea, dem. rep.","Korea, Democratic People'S Republic Of",North Korea
+democratic people's republic of korea,"Korea, Democratic People'S Republic Of",North Korea
+korea (pre-war),Korea (Pre-War),Korea (Pre-War)
+korea (unified),Korea (Pre-War),Korea (Pre-War)
+korea,Korea (Pre-War),Korea (Pre-War)
+kuwait,Kuwait,Kuwait
+lao people's democratic republic,Lao People'S Democratic Republic,Laos
+laos,Lao People'S Democratic Republic,Laos
+lao people's republic,Lao People'S Democratic Republic,Laos
+lebanon,Lebanon,Lebanon
+liberia,Liberia,Liberia
+libyan arab jamahiriya,Libyan Arab Jamahiriya,Libya
+libya,Libyan Arab Jamahiriya,Libya
+saint lucia,Saint Lucia,Saint Lucia
+liechtenstein,Liechtenstein,Liechtenstein
+sri lanka,Sri Lanka,Sri Lanka
+ceylon,Sri Lanka,Sri Lanka
+lesotho,Lesotho,Lesotho
+lithuania,Lithuania,Lithuania
+luxembourg,Luxembourg,Luxembourg
+latvia,Latvia,Latvia
+macao,Macao,Macao
+"macao, sar china",Macao,Macao
+saint martin,Saint Martin,Saint Martin
+saint martin (french),Saint Martin,Saint Martin
+morocco,Morocco,Morocco
+monaco,Monaco,Monaco
+"moldova, republic of","Moldova, Republic Of",Moldova
+republic of moldova,"Moldova, Republic Of",Moldova
+moldova,"Moldova, Republic Of",Moldova
+madagascar,Madagascar,Madagascar
+maldives,Maldives,Maldives
+maldive islands,Maldives,Maldives
+mexico,Mexico,Mexico
+marshall islands,Marshall Islands,Marshall Islands
+"macedonia, the former yugoslav republic of","Macedonia, The Former Yugoslav Republic Of","Macedonia, TFYR of"
+the former yugoslav republic of macedonia,"Macedonia, The Former Yugoslav Republic Of","Macedonia, TFYR of"
+"Macedonia, TFYR of","Macedonia, The Former Yugoslav Republic Of","Macedonia, TFYR of"
+Macedonia,"Macedonia, The Former Yugoslav Republic Of","Macedonia, TFYR of"
+mali,Mali,Mali
+malta,Malta,Malta
+myanmar,Myanmar,Myanmar
+burma,Myanmar,Myanmar
+burma (myanmar),Myanmar,Myanmar
+myanmar (burma),Myanmar,Myanmar
+montenegro,Montenegro,Montenegro
+mongolia,Mongolia,Mongolia
+northern mariana islands,Northern Mariana Islands,Northern Mariana Islands
+mozambique,Mozambique,Mozambique
+mauritania,Mauritania,Mauritania
+montserrat,Montserrat,Montserrat
+martinique,Martinique,Martinique
+mauritius,Mauritius,Mauritius
+malawi,Malawi,Malawi
+malaysia,Malaysia,Malaysia
+mayotte,Mayotte,Mayotte
+namibia,Namibia,Namibia
+new caledonia,New Caledonia,New Caledonia
+niger,Niger,Niger
+norfolk island,Norfolk Island,Norfolk Island
+nigeria,Nigeria,Nigeria
+nicaragua,Nicaragua,Nicaragua
+niue,Niue,Niue
+netherlands,Netherlands,Netherlands
+netherlands antilles,Netherlands Antilles,Netherlands Antilles
+norway,Norway,Norway
+nepal,Nepal,Nepal
+nauru,Nauru,Nauru
+new zealand,New Zealand,New Zealand
+oman,Oman,Oman
+pakistan,Pakistan,Pakistan
+panama,Panama,Panama
+pitcairn,Pitcairn,Pitcairn
+peru,Peru,Peru
+philippines,Philippines,Philippines
+palau,Palau,Palau
+papua new guinea,Papua New Guinea,Papua New Guinea
+poland,Poland,Poland
+puerto rico,Puerto Rico,Puerto Rico
+portugal,Portugal,Portugal
+paraguay,Paraguay,Paraguay
+"palestinian territory, occupied","Palestinian Territory, Occupied","Palestinian Territory, Occupied"
+west bank/gaza,"Palestinian Territory, Occupied","Palestinian Territory, Occupied"
+state of palestine,"Palestinian Territory, Occupied","Palestinian Territory, Occupied"
+french polynesia,French Polynesia,French Polynesia
+qatar,Qatar,Qatar
+reunion,Reunion,Reunion
+romania,Romania,Romania
+russian federation,Russian Federation,Russian Federation
+russia,Russian Federation,Russian Federation
+soviet union,The Union of Soviet Socialist Republics,The Soviet Union
+rwanda,Rwanda,Rwanda
+saudi arabia,Saudi Arabia,Saudi Arabia
+sudan,Sudan,Sudan
+senegal,Senegal,Senegal
+singapore,Singapore,Singapore
+south georgia and the south sandwich islands,South Georgia and The South Sandwich Islands,South Georgia and The South Sandwich Islands
+saint helena,Saint Helena,Saint Helena
+svalbard and jan mayen,Svalbard and Jan Mayen,Svalbard and Jan Mayen
+solomon islands,Solomon Islands,Solomon Islands
+solomon is,Solomon Islands,Solomon Islands
+sierra leone,Sierra Leone,Sierra Leone
+el salvador,El Salvador,El Salvador
+san marino,San Marino,San Marino
+somalia,Somalia,Somalia
+saint pierre and miquelon,Saint Pierre and Miquelon,Saint Pierre and Miquelon
+serbia,Serbia,Serbia
+sao tome and principe,Sao Tome and Principe,Sao Tome and Principe
+suriname,Suriname,Suriname
+slovakia,Slovakia,Slovakia
+slovak republic,Slovakia,Slovakia
+slovenia,Slovenia,Slovenia
+sweden,Sweden,Sweden
+swaziland,Swaziland,Swaziland
+seychelles,Seychelles,Seychelles
+syrian arab republic,Syrian Arab Republic,Syria
+syria,Syrian Arab Republic,Syria
+turks and caicos islands,Turks and Caicos Islands,Turks and Caicos Islands
+chad,Chad,Chad
+togo,Togo,Togo
+thailand,Thailand,Thailand
+tajikistan,Tajikistan,Tajikistan
+turkmenistan,Turkmenistan,Turkmenistan
+timor-leste,Timor-Leste,Timor-Leste
+east timor,Timor-Leste,Timor-Leste
+tokelau,Tokelau,Tokelau
+tonga,Tonga,Tonga
+trinidad and tobago,Trinidad and Tobago,Trinidad and Tobago
+tunisia,Tunisia,Tunisia
+turkey,Turkey,Turkey
+tuvalu,Tuvalu,Tuvalu
+"taiwan, province of china","Taiwan, Province Of China",Taiwan
+taiwan,"Taiwan, Province Of China",Taiwan
+china (taiwan),"Taiwan, Province Of China",Taiwan
+taiwan (china),"Taiwan, Province Of China",Taiwan
+republic of china,"Taiwan, Province Of China",Taiwan
+"tanzania, united republic of","Tanzania, United Republic Of",Tanzania
+tanzania,"Tanzania, United Republic Of",Tanzania
+united republic of tanzania,"Tanzania, United Republic Of",Tanzania
+uganda,Uganda,Uganda
+ukraine,Ukraine,Ukraine
+united states minor outlying islands,United States Minor Outlying Islands,United States Minor Outlying Islands
+uruguay,Uruguay,Uruguay
+united states of america,United States of America,United States
+united states,United States of America,United States
+usa,United States of America,United States
+united arab republic,United Arab Republic,United Arab Republic
+uzbekistan,Uzbekistan,Uzbekistan
+holy see (vatican city state),Holy See (Vatican City State),Vatican City State
+vatican,Holy See (Vatican City State),Vatican City State
+holy see,Holy See (Vatican City State),Vatican City State
+"vatican city state, holy see",Holy See (Vatican City State),Vatican City State
+saint vincent and the grenadines,Saint Vincent and The Grenadines,Saint Vincent and The Grenadines
+saint vincent,Saint Vincent and The Grenadines,Saint Vincent and The Grenadines
+"venezuela, bolivarian republic of","Venezuela, Bolivarian Republic Of",Venezuela
+venezuela,"Venezuela, Bolivarian Republic Of",Venezuela
+bolivarian republic of venezuela,"Venezuela, Bolivarian Republic Of",Venezuela
+"virgin islands, british","Virgin Islands, British","Virgin Islands, British"
+"virgin islands, u.s.","Virgin Islands, U.S.","Virgin Islands, U.S."
+north vietnam,North Vietnam,North Vietnam
+vietnam north,North Vietnam,North Vietnam
+"vietnam, republic of",Vietnam,Vietnam
+republic of vietnam,Vietnam,Vietnam
+vietnam,Vietnam,Vietnam
+vanuatu,Vanuatu,Vanuatu
+wallis and futuna,Wallis and Futuna,Wallis and Futuna
+samoa,Samoa,Samoa
+western samoa,Samoa,Samoa
+north yemen,Yemen,Yemen
+yemen,Yemen,Yemen
+"yemen, rep.",Yemen,Yemen
+"yemen, republic of",Yemen,Yemen
+republic of yemen,Yemen,Yemen
+democratic yemen,Democratic Yemen,Democratic Yemen
+yemen people's republic,Democratic Yemen,Democratic Yemen
+people's democratic republic of yemen,Democratic Yemen,Democratic Yemen
+"yemen, south",Democratic Yemen,Democratic Yemen
+south yemen,Democratic Yemen,Democratic Yemen
+south africa,South Africa,South Africa
+zambia,Zambia,Zambia
+zimbabwe,Zimbabwe,Zimbabwe
+saxony,Saxony,Saxony
+modena,Modena,Modena
+kosovo,Kosovo,Kosovo
+hanover,Hanover,Hanover
+hesse electoral,Hesse Electoral,Hesse Electoral
+hesse grand ducal,Hesse Grand Ducal,Hesse Grand Ducal
+parma,Parma,Parma
+two sicilies,Two Sicilies,Two Sicilies
+german democratic republic,German Democratic Republic,German Democratic Republic
+zanzibar,Zanzibar,Zanzibar
+tuscany,Tuscany,Tuscany
+yugoslavia,Yugoslavia,Yugoslavia
+"yugoslavia, federal republic of",Yugoslavia,Yugoslavia
+wuerttemburg,Wuerttemburg,Wuerttemburg
+mecklenburg schwerin,Mecklenburg Schwerin,Mecklenburg Schwerin
+czechoslovakia,Czechoslovakia,Czechoslovakia
+south sudan,South Sudan,South Sudan
+sint maarten,Sint Maarten,Sint Maarten
+sint maarten (dutch),Sint Maarten,Sint Maarten
+curacao ,Curacao ,Curacao 
+serbia and montenegro,Serbia and Montenegro,Serbia and Montenegro
+serbia and montenegro (former),Serbia and Montenegro,Serbia and Montenegro
+european union,European Union,European Union
+federal republic of germany,West Germany,West Germany
+germany west,West Germany,West Germany
+german federal republic,West Germany,West Germany
+west germany,West Germany,West Germany
+channel islands,Channel Islands,Channel Islands
+papal states,Papal States,Papal States
+bavaria,Bavaria,Bavaria
+baden,Baden,Baden
+austria-hungary,Austria-Hungary,Austria-Hungary
+yemen arab republic,Yemen Arab Republic,Yemen Arab Republic
+east germany,East Germany,East Germany
+germany east,East Germany,East Germany
